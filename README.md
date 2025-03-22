@@ -6,10 +6,15 @@ Dental Clinic Management is a web-based application designed to streamline clini
 ## 🚀 Features
 
 ✅ **Patient Management** – Store and manage patient records securely.
+
 ✅ **Appointment Scheduling** – Easy booking, rescheduling, and cancellation of appointments.
+
 ✅ **Doctor & Staff Management** – Assign doctors to patients and track staff activities.
+
 ✅ **Billing & Payments** – Generate invoices and process payments.
+
 ✅ **Notifications & Reminders** – Send automatic appointment reminders via email or SMS.
+
 ✅ **Reports & Analytics** – Generate reports on appointments, revenue, and performance.
 
 ## 🛠️ Technologies Used
