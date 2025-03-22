@@ -1,4 +1,5 @@
 🦷 Dental Clinic Management
+
 📌 Overview
 Dental Clinic Management is a web-based application designed to streamline clinic operations, including appointment scheduling, patient management, and billing. It helps clinics manage their workflow efficiently and enhance patient experience.
 
