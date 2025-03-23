@@ -44,7 +44,6 @@ List of Follow-up Visits - Doctor Screen
 
 
 ## 🏆 Contact
-- **Frontend:** *Do Thi Ngoc Thy*  
 - **Email:** *ngocthydo17@gmail.com*  
 - **GitHub Issues:** [Report a Bug](https://github.com/ngocthydo17/coffee-shop-management/issues)  
 
