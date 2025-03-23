@@ -33,9 +33,14 @@ Home Screen
 <img src="https://github.com/user-attachments/assets/e374260e-14c2-4879-aa1f-11a95e23cbf1" >
 
 
-Contact Screen
+Appointment List - Doctor Screen
 
-<img src="https://github.com/user-attachments/assets/090143cd-db21-49a0-83fc-1828600385c5" >
+<img src="https://github.com/user-attachments/assets/02ab77de-8e65-4a61-9180-94ee036adec9" >
+
+
+List of Follow-up Visits - Doctor Screen
+
+<img src="https://github.com/user-attachments/assets/7079b555-a6ce-4738-87c9-6cf17c411a2d" >
 
 
 ## 🏆 Contact
