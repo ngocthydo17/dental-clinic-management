@@ -18,21 +18,25 @@ Dental Clinic Management is a web-based application designed to streamline clini
 - **Authentication:** JWT / OAuth
 
 ## 📷 UI Screenshots
-Sign up Screen
+Login  Screen
 
 <img src="https://github.com/user-attachments/assets/09387899-9515-4ec1-b840-8f765904861e" >
+
 
 Sign up Screen
 
 <img src="https://github.com/user-attachments/assets/0a0e834f-f696-4341-a67d-04f9ad9aee7e" >
 
+
 Home Screen
 
 <img src="https://github.com/user-attachments/assets/e374260e-14c2-4879-aa1f-11a95e23cbf1" >
 
+
 Contact Screen
 
 <img src="https://github.com/user-attachments/assets/090143cd-db21-49a0-83fc-1828600385c5" >
+
 
 ## 🏆 Contact
 - **Tester:** *Do Thi Ngoc Thy*  
